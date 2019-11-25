@@ -1,0 +1,5 @@
+.logon_profile_con{width: 60%;}
+.top_header_con{padding:12px 15px}
+.profile_con span{width: 28px;height: 28px;border-radius: 50%;background: #999;display: inline-block;position: relative;}
+.img_comm_po{position: absolute;max-width: 100%;max-height: 100%;top:50%;left:50%;transform: translate(-50%,-50%);}
+.seacrh_icon{margin-left: 15px;}

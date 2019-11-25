@@ -1,0 +1,12 @@
+.fav_cat_list{display: flex;}
+.list_in_con{ background-color: rgba(20, 185, 188, 0.1);opacity: 0.8;display: inline-block;width: 68px;height: 68px;border-radius: 50%;display: flex;align-items: center; justify-content: center;}
+.fav_cat_list li a{width: 60px;
+    height: 60px;
+    border: solid 1px #dadada;
+    background-color: #ffffff;display: inline-block;border-radius: 50%;    display: flex;
+    align-items: center;
+    justify-content: center;}
+    .fav_cat_list li {text-align: center;margin-right: 15px;}
+    .fav_cat_list li label{font-size: 12px;margin: 10px 0 0; display: inline-block;}
+    .fav_list{overflow: hidden;overflow-x: scroll;}
+    .f_caption{font-size: 15px;display: inline-block;font-weight: 600;margin: 0 0 10px;}
