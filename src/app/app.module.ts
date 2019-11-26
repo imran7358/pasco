@@ -10,6 +10,7 @@ import { AddtopicComponent } from './addtopic/addtopic.component';
 import { FavcategoryComponent } from './favcategory/favcategory.component';
 import { NewquestionComponent } from './newquestion/newquestion.component';
 import { HomeComponent } from './home/home.component';
+import { AnswerdetailsComponent } from './answerdetails/answerdetails.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { HomeComponent } from './home/home.component';
     AddtopicComponent,
     FavcategoryComponent,
     NewquestionComponent,
-    HomeComponent
+    HomeComponent,
+    AnswerdetailsComponent
   ],
   imports: [
     BrowserModule,

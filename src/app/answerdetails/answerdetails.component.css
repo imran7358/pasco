@@ -1,0 +1,11 @@
+.profile_img {text-align: center;}
+.pro_max-width{max-width: 640px;width:100%}
+.profile_info{position: absolute;padding:10px;top:0;z-index: 999;}
+.pro_inf_con{justify-content: space-between;}
+.name_pro{margin-left: 15px;}
+.name_pro label{font-size: 18px;
+    font-weight: 400;
+    display: inline-block;
+    width: 100%;
+    color: #fff;margin-bottom: 6px;}
+.name_pro span{font-size: 14px; font-weight: 400;display: inline-block;color:#fff}
