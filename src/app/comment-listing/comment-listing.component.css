@@ -1,0 +1,11 @@
+.comment_listing_c{border-bottom:1px solid rgba(204, 204, 204, 0.32);}
+.commen_pro{width:10%; border-radius: 50%;}
+.comment_desciprtion{margin-left: 20px;width: 70%;}
+.type_comment textarea{resize: none;border:none;font-size: 14px; font-weight: 500;color: #333;opacity: 0.3;outline:0;}
+.comment_heading{margin:15px 0;font-size: 16px; font-weight: bold; color: #333;}
+.comment_heading label{opacity:0.6;margin-right: 5px;}
+.type_comment{width:70%}
+.comment_desciprtion label{font-size: 14px;font-weight: bold;color: #14b9bc;}
+.comm_in{padding:15px 0}
+.comm_in .comment_desciprtion label{color: #000;margin-bottom:10px;display: inline-block;}
+.comm_in .type_comment{font-size: 14px;}

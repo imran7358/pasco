@@ -1,0 +1,12 @@
+.rleted_inner{padding:20px 15px}
+.relative_question{padding:20px 15px;}
+.relted_heading_con{justify-content: space-between;}
+.r-heading h2{font-weight: bold;font-size: 16px;color: #333;}
+.view_more_ans a{font-size: 16px;color: #c0c0c0;text-decoration: none;}
+.related_info li{ width: 30%;display: inline-block;margin-right: 10px;margin-bottom: 10px;}
+.related_info li a{display:inline-block;position: relative;width:100%;text-align: center;text-decoration: none;color: #333;}
+.related_info li .img-con{ width:100%;border:1px solid rgba(204, 204, 204, 0.41);border-radius: 3px;}
+.related_info li a span{width: 23px;height: 23px;position: absolute;bottom:27px;right: 11px;}
+.related_info li a span img{width:100%}
+.related_info{margin-top:15px;margin-right: -12px;}
+.related_info li a label{font-size: 13px;font-weight: 500;}

@@ -1,11 +1,21 @@
-.profile_img {text-align: center;}
+.profile_img {text-align: center;line-height: 0;position: relative;}
+.profile_img img{width:100%}
 .pro_max-width{max-width: 640px;width:100%}
-.profile_info{position: absolute;padding:10px;top:0;z-index: 999;}
+.profile_info{position: absolute;padding:10px;top:0;z-index: 999;background-image: linear-gradient(to bottom, #333333, rgba(255, 255, 255, 0));}
 .pro_inf_con{justify-content: space-between;}
 .name_pro{margin-left: 15px;}
-.name_pro label{font-size: 18px;
-    font-weight: 400;
-    display: inline-block;
-    width: 100%;
+.name_pro label{font-size: 18px;font-weight: 400;display: inline-block;width: 100%;
     color: #fff;margin-bottom: 6px;}
 .name_pro span{font-size: 14px; font-weight: 400;display: inline-block;color:#fff}
+.subscribe_btn a{border: 1px solid #fff;color: #fff;text-decoration: none;border-radius: 40px;padding: 5px 20px;font-size: 12px;margin-left: 20px;}
+.subscribr_con {justify-content: center;align-items: center;}
+.let_right_arrow{position: absolute;bottom: 18px;right: 20px;}
+.let_right_arrow div{float:left}
+.f_right_ar{margin-left: 20px;}
+.like_commoent_share{justify-content: space-between;background:rgba(131, 131, 131, 0.16);padding:10px 25px;}
+.audio_player{text-align: center;padding:20px}
+.ico_common_btn{justify-content: center;align-items: center;color: #f07b58; font-size: 16px;display:flex;font-weight: 600;}
+.ico_common_btn label{margin-left: 10px;}
+.relative_question{padding:20px 15px;}
+.comment_listing{padding:0px 15px;}
+.cmmon_padding{padding:20px 15px;}

@@ -11,6 +11,9 @@ import { FavcategoryComponent } from './favcategory/favcategory.component';
 import { NewquestionComponent } from './newquestion/newquestion.component';
 import { HomeComponent } from './home/home.component';
 import { AnswerdetailsComponent } from './answerdetails/answerdetails.component';
+import { RealtedanswerComponent } from './realtedanswer/realtedanswer.component';
+import { RelativequestionComponent } from './relativequestion/relativequestion.component';
+import { CommentListingComponent } from './comment-listing/comment-listing.component';
 
 @NgModule({
   declarations: [
@@ -22,7 +25,10 @@ import { AnswerdetailsComponent } from './answerdetails/answerdetails.component'
     FavcategoryComponent,
     NewquestionComponent,
     HomeComponent,
-    AnswerdetailsComponent
+    AnswerdetailsComponent,
+    RealtedanswerComponent,
+    RelativequestionComponent,
+    CommentListingComponent
   ],
   imports: [
     BrowserModule,
